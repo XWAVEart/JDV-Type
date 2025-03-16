@@ -4,7 +4,7 @@ A fast-paced space shooter game with multiple levels, boss battles, and power-up
 
 ## Play Now
 
-Play the game directly in your browser: [Play JDV-TYPE](https://xwaveart.github.io/jdv-type-game/)
+Play the game directly in your browser: [Play JDV-TYPE](https://XWAVEart.github.io/jdv-type-game/)
 
 ## Game Features
 
